@@ -1,0 +1,17 @@
+{
+  "name": "test-oxlint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "oxlint": "^0.15.13",
+    "typescript": "^5.8.2",
+    "vite-node": "^3.0.8"
+  }
+}
