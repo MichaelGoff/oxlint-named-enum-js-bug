@@ -1,0 +1,1 @@
+# oxlint-named-enum-js-bug
